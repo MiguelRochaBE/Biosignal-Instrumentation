@@ -8,4 +8,5 @@ The hardware-conditioned (amplified and filtered) EEG signal was then digitized 
 
 In the EEG folder, a 3-page ".pdf" file is provided overviewing the the whole system development and integration. 
 
-![CircuitEEG](https://github.com/user-attachments/assets/d2302647-20fd-4282-a218-a42ffe5077e0)
+
+
